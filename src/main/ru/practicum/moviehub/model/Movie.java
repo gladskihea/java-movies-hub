@@ -1,6 +1,5 @@
 package ru.practicum.moviehub.model;
 
-import java.util.Objects;
 
 public class Movie {
     private Long id;
